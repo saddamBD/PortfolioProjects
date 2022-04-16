@@ -1,10 +1,4 @@
-####################################
-# Data Professor                   #
-# http://youtube.com/dataprofessor #
-# http://github.com/dataprofessor  #
-####################################
-
-
+install.packages("randomForest")
 # Import libraries
 library(shiny)
 library(shinythemes)
