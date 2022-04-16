@@ -1,12 +1,13 @@
-install.packages("shinythemes")
+
+
 
 library(shiny)
 library(shinythemes)
 
 
-
-# User Interface                   
-
+####################################
+# User Interface                   #
+####################################
 ui <- fluidPage(theme = shinytheme("united"),
                 navbarPage("BMI Calculator:",
                            
